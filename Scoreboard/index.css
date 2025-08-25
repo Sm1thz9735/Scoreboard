@@ -12,7 +12,7 @@ body {
 .score-display{
     width: 100px;
     height: 100px;
-    border: 2px solid black;
+    border: 2px solid gray;
     display: flex;
     justify-content: center;
     align-items: center;
