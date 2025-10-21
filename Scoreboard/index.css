@@ -16,14 +16,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background-color: red;
     border-radius: 10px;
 }
 .score-display p{
     margin: 0;
     font-size: 3em;
     font-family: Arial, Helvetica, sans-serif;
-    color: red;
+    color: black;
 }
 .score-box{
     display: flex;
